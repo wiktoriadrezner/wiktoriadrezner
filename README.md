@@ -8,7 +8,7 @@ I have full proficiency in HTML, CSS, JavaScript, Figma, WordPress and Adobe Cre
 Whether you need a web designer, WordPress developer, UX designer, content creator, I am here to help you and facilitate your journey 📩 [Contact me](mailto:dreznerwiktoria@outlook.com)!
 
 ### Technology Stack
-HTML | CSS | Handlebars | JavaScript | Node.js | Amazon Lightsail | C++
+HTML | CSS | Handlebars | JavaScript | Node.js | Express | Amazon Lightsail | SQL | C++
 
 ### Design Software
 WordPress | Elementor | Figma | Adobe Photoshop | Adobe Illustrator
