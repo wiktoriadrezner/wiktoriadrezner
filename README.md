@@ -5,7 +5,7 @@ I have an educational background in graphic design and web development and years
 
 I have full proficiency in HTML, CSS, JavaScript, Figma, WordPress and Adobe Creative Cloud programs, such as Illustrator and Photoshop 🖥️ My project portfolio includes works for NGOs, start-ups, small to mid-size companies and organisations. Over the five years of work experience, I had a chance to collaborate with enterprises based in Sweden, Poland, Belgium, Hungary and Romania.
 
-Whether you need a web designer or WordPress developer, I am here to help you facilitate your journey 📩 [Contact me](mailto:dreznerwiktoria@outlook.com)!
+Whether you need a web designer, WordPress developer, UX designer or perhaps a content creator, I am here to help you and facilitate your journey 📩 [Contact me](mailto:dreznerwiktoria@outlook.com)!
 
 ### Technology Stack
 HTML | CSS | Handlebars | JavaScript | Node.js | Express | Amazon Lightsail | SQL | C++
