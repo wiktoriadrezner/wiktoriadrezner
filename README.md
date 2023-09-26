@@ -6,7 +6,8 @@ With an educational background in graphic design and web development, I provide 
 My project portfolio includes works for NGOs, start-ups, small to mid-size companies and organisations. Over the five years of work experience, I had a chance to collaborate with enterprises based in Sweden (Lynkrr, Shortly, Jönköping University), Belgium (Impact Valley), Poland (Scandi Poster, Cukiernia Dominika), Hungary (Careers in the Common Good) and Romania (Nevo Parudimos) 🖥️
 
 Elevating Digital Presence with Excellence ✨
-📩 [Contact me](mailto:hello@dreznerdigital.com)!
+
+Interested? [Let's talk!](mailto:hello@dreznerdigital.com) | ENG 🇬🇧 / SE 🇸🇪 / PL 🇵🇱
 
 ### Technology Stack
 HTML | CSS | Handlebars | JavaScript | Node.js | Express | Amazon Lightsail | SQL | C++
